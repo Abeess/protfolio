@@ -25,7 +25,7 @@ A personal portfolio website showcasing my projects, technical skills, certifica
 
 ## Preview
 
-![Portfolio Preview](event_hub_preview.png)
+![Portfolio Preview](portfolio.png)
 
 ## About Me
 
